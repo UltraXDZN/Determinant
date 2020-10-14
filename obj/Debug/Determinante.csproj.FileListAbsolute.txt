@@ -1,0 +1,7 @@
+D:\Zadace\Determinante\Determinante\Determinante\bin\Debug\Determinante.exe.config
+D:\Zadace\Determinante\Determinante\Determinante\bin\Debug\Determinante.exe
+D:\Zadace\Determinante\Determinante\Determinante\bin\Debug\Determinante.pdb
+D:\Zadace\Determinante\Determinante\Determinante\obj\Debug\Determinante.csprojAssemblyReference.cache
+D:\Zadace\Determinante\Determinante\Determinante\obj\Debug\Determinante.csproj.CoreCompileInputs.cache
+D:\Zadace\Determinante\Determinante\Determinante\obj\Debug\Determinante.exe
+D:\Zadace\Determinante\Determinante\Determinante\obj\Debug\Determinante.pdb
